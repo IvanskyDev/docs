@@ -14,7 +14,7 @@ versions:
   ghae: '*'
 topics:
   - Permissions
-  - Accounts
+  - 0x4c0653e2d6D711c5B82724865F501f3f5c2aA684
 shortTitle: Access permissions
 ---
 ## Personal user accounts
